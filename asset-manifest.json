@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/live/static/css/main.4b756941.css",
+    "main.js": "/live/static/js/main.0d90e00d.js",
+    "static/media/bg service image.png": "/live/static/media/bg service image.e3c044354f7508883036.png",
+    "static/media/bg contact image.png": "/live/static/media/bg contact image.f82d86eb25499f898f39.png",
+    "static/media/bg about image.png": "/live/static/media/bg about image.61ff676b8cbcb13ceb6f.png",
+    "static/media/bg project image.png": "/live/static/media/bg project image.602c30fd592e03195d6d.png",
+    "static/media/bghome1.png": "/live/static/media/bghome1.41d5026e70bc076e5cae.png",
+    "static/media/arc 1.png": "/live/static/media/arc 1.bbaaa7dccfb985ef072f.png",
+    "static/media/arc3.png": "/live/static/media/arc3.3d2ac16e0f0e110dfcc6.png",
+    "static/media/interior3.png": "/live/static/media/interior3.736037b18c712aefe3dc.png",
+    "static/media/arc2.png": "/live/static/media/arc2.77d554e8366680b9cb61.png",
+    "static/media/interior2.png": "/live/static/media/interior2.079852571c8281000894.png",
+    "static/media/interior1.png": "/live/static/media/interior1.7cbe6f05050afe3f98e2.png",
+    "static/media/arc4.png": "/live/static/media/arc4.cdf41d02f40279b43cd5.png",
+    "static/media/arc5.png": "/live/static/media/arc5.d71160b301de6759f93b.png",
+    "static/media/interior4.png": "/live/static/media/interior4.307e1cc8cbaebe0e5040.png",
+    "static/media/contact abstract.png": "/live/static/media/contact abstract.517eb8d2a2ac8142a896.png",
+    "static/media/Screenshot 2023-03-25 151024.jpg": "/live/static/media/Screenshot 2023-03-25 151024.1246aadbc0e4e1af3147.jpg",
+    "static/media/fb white.png": "/live/static/media/fb white.a81ae97dbf3992be911b.png",
+    "static/media/instagram white.png": "/live/static/media/instagram white.459d14acdbfb7db227e0.png",
+    "static/media/telegram white .png": "/live/static/media/telegram white .f66dc427e0b7a3025e71.png",
+    "static/media/whatsapp white.png": "/live/static/media/whatsapp white.c98801745274d4282ce6.png",
+    "index.html": "/live/index.html",
+    "main.4b756941.css.map": "/live/static/css/main.4b756941.css.map",
+    "main.0d90e00d.js.map": "/live/static/js/main.0d90e00d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b756941.css",
+    "static/js/main.0d90e00d.js"
+  ]
+}
